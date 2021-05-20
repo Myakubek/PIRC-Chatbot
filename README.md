@@ -1,5 +1,5 @@
 # PIRC-Chatbot 
-This project uses the [PircBot java framework](http://www.jibble.org/pircbot.php) to create an IRC bot, The bot pulls json information from REST API's and parses them using gson.
+This project uses the [PircBot java framework](http://www.jibble.org/pircbot.php) to create an IRC bot, The bot pulls json information from REST API's and parses it using gson.
 
 Weather information is pulled off [open weather map's API](https://openweathermap.org/API) 
 
