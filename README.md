@@ -3,7 +3,15 @@ This project uses the [PircBot java framework](http://www.jibble.org/pircbot.php
 
 Weather information is pulled off [open weather map's API](https://openweathermap.org/API) 
 
+![alt text](https://github.com/Myakubek/PIRC-Chatbot/blob/main/Images/Weather.PNG?raw=true)  
+
 Bitcoin information is pulled off [coindesk's API](https://api.coindesk.com/v1/bpi/currentprice.json)
+
+![alt text](https://github.com/Myakubek/PIRC-Chatbot/blob/main/Images/Bitcoin.PNG?raw=true)  
+
+
+
+
 
 # How To use:
 - When run will add chatbot to [freenode IRC network](https://webchat.freenode.net/)
